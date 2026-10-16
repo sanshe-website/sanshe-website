@@ -128,7 +128,7 @@
       <div class="card">
         <div class="icon">纸</div>
         <h3>纸张销售</h3>
-        <p>供应瓦楞纸、箱板纸、白板纸、文化用纸等成品纸张，服务包装厂、印刷厂及终端用户，支持现货与期货订单。</p>
+        <p>供应箱板纸、瓦楞纸、牛皮纸、牛卡纸、包装用纸等成品纸张，服务包装厂、印刷厂及终端用户，支持现货与期货订单。</p>
       </div>
     </div>
   </div>
@@ -163,15 +163,15 @@
       </div>
       <div class="contact-item">
         <h4>联系电话</h4>
-        <p>请替换为您的手机号</p>
+        <p>+17372523512</p>
       </div>
       <div class="contact-item">
         <h4>电子邮箱</h4>
-        <p>请替换为您的邮箱</p>
+        <p>sansheltd@163.com</p>
       </div>
       <div class="contact-item">
         <h4>公司地址</h4>
-        <p>上海市（请补充详细地址）</p>
+        <p>上海市浦东新区</p>
       </div>
     </div>
   </div>
